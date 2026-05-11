@@ -132,12 +132,12 @@
 
 ### Решение
 
-Пример REST API запроса
+Пример REST API запроса:
 
 GET /api/v1/partner-stores
 Authorization: Bearer <token>
 
-Пример REST API ответа
+Пример REST API ответа:
 
 ````json
 {
