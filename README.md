@@ -134,8 +134,10 @@
 
 Пример REST API запроса:
 
+```http
 GET /api/v1/partner-stores
 Authorization: Bearer <token>
+```
 
 Пример REST API ответа:
 
